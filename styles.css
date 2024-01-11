@@ -1,0 +1,20 @@
+#userForm button
+{
+   background-color:white ; 
+   color: blueviolet;
+}
+#userInfoForm
+{
+    color: blueviolet;
+    background-color: white;
+}
+
+header
+{
+    margin:40px;
+    margin-right: 300;
+    text-align: center;
+    background-color:white;
+    font-size: 20px;
+
+}
